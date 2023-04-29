@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/50357817/235327287-855a8f33-b5cf-42c3-bc1c-98a35c47c2cf.svg" alt="baner"></p>
+
 # Przelewy24 PHP API
 
 Projekt Przelewy24 PHP API jest gotowym rozwiązaniem dla programistów PHP, którzy chcą połączyć swoją aplikację z systemem płatności Przelewy24. API pozwala na bezproblemowe przesyłanie zapytań do serwera Przelewy24 i odbieranie odpowiedzi.
